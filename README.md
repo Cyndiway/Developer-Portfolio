@@ -11,7 +11,7 @@ Here you'll find my web development projects organized by category.
 | Project | Description | Stack |
 
 | [Blogging Platform] (https://github.com/Cyndiway/Backend---Blogging-Platform) |  Rest APIs for managing blog post and comments. | Node.js, Express, MongoDB |
-| [Blogging Platform](https://github.com/Cyndiway/Backend---Task-Manager) | REST API for managing daily tasks. | Node.js, Express, MongoDB |
+| [Task Manager](https://github.com/Cyndiway/Backend---Task-Manager) | REST API for managing daily tasks. | Node.js, Express, MongoDB |
 | [E-commerce API](https://github.com/Cyndiway/Backend---E-Commerce-App) | Backend for online shopping platform. | Node.js, Express, MongoDB |
 
 
